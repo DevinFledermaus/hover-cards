@@ -25,7 +25,7 @@ body {
     width: 600px;
     height: 350px;
     margin: 20px;
-    margin-top: 120px;
+    margin-top: 80px;
     display: flex;
     transition: 0.5s;
     justify-content: flex-start;
